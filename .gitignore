@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+startify.db
+
+# Node
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.DS_Store

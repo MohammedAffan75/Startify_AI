@@ -1,0 +1,22 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+spacy==3.7.4
+transformers==4.35.2
+torch==2.2.0
+langchain==0.0.340
+beautifulsoup4==4.12.2
+requests==2.31.0
+python-pptx==0.6.23
+reportlab==4.0.7
+# sqlite3 is part of the Python standard library; no pip package is required for sqlite3
+aiohttp==3.9.1
+sqlalchemy==2.0.23
+alembic==1.12.1
+pytest==7.4.3
+python-multipart==0.0.6
+python-dotenv==1.0.0
+pytrends==4.9.2
+lxml==4.9.3
+Pillow==10.1.0

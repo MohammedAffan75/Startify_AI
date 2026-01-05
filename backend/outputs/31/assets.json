@@ -1,0 +1,44 @@
+{
+  "brand_names": [
+    "Setuply",
+    "Setupify",
+    "SetupHub",
+    "SetupPro",
+    "Commonly",
+    "Commonify",
+    "CommonHub",
+    "CommonPro",
+    "MySetup",
+    "MyCommon"
+  ],
+  "slogans": [
+    "Empowering common problems with setup solutions",
+    "Your trusted setup partner",
+    "Transforming setup for common problems",
+    "Smart setup, Better life",
+    "Innovation meets setup"
+  ],
+  "logo_prompts": [
+    "Logo design prompt for setup brand: modern, minimalist logo featuring setup elements, clean lines, professional color palette",
+    "Logo design prompt for setup brand: modern, minimalist logo featuring abstract shapes, vibrant colors, modern typography",
+    "Logo design prompt for setup brand: modern, minimalist logo featuring geometric patterns, gradient colors, tech-inspired",
+    "Logo design prompt for setup brand: modern, minimalist logo featuring nature-inspired elements, organic shapes, earthy tones",
+    "Logo design prompt for setup brand: modern, minimalist logo featuring bold typography, minimalist icon, monochrome design"
+  ],
+  "ad_copies": [
+    "Discover the future of setup! Perfect for common problems. Download now!",
+    "Transform your setup experience with tech support. Built for common problems. Try it free!",
+    "Join thousands of common problems using our setup app. Tech support included!",
+    "The smart way to setup. Trusted by common problems everywhere.",
+    "Revolutionize your setup journey with tech support. Made for common problems. Get started today!"
+  ],
+  "pitch_sections": {
+    "problem": "Current setup solutions fail to adequately serve common problems. \nKey challenges include limited accessibility, high costs, and lack of tailored features. \nThis creates a significant gap in the market for a dedicated solution.",
+    "solution": "Our setup platform addresses these challenges by providing tech support. \nDesigned specifically for common problems, we offer an intuitive, affordable, and comprehensive solution \nthat meets their unique needs.",
+    "value_proposition": "We deliver unmatched value through:\n- Tailored features for common problems\n- tech support\n- Competitive pricing and accessibility\n- User-centric design and experience",
+    "business_model": "Revenue streams:\n1. Freemium model with premium features\n2. Subscription tiers for common problems\n3. B2B partnerships and enterprise solutions\n4. In-app purchases and value-added services",
+    "market_size_estimate": "Target market: common problems in setup sector\nMarket interest score: 72.6/100 (based on trend analysis)\nAddressable market: Growing segment with strong digital adoption\nKey opportunities: Growing demand in common problems segment, Emerging setup sector with high growth potential, Digital transformation accelerating in setup",
+    "go_to_market": "Phase 1: Launch MVP targeting early adopters in common problems\nPhase 2: Digital marketing campaigns (social media, content marketing)\nPhase 3: Strategic partnerships and community building\nPhase 4: Scale operations and expand feature set\nKey channels: App stores, social media, word-of-mouth, partnerships",
+    "team_reqs": "Core team needed:\n- Technical Lead (Full-stack development, setup domain expertise)\n- Product Manager (User experience, common problems insights)\n- Marketing Lead (Growth hacking, digital marketing)\n- Designer (UI/UX, branding)\n- Business Development (Partnerships, sales)"
+  }
+}
